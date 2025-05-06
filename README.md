@@ -76,7 +76,7 @@
   </a>
   <br/><br/>
   <a href="https://github.com/hassan-elkhatoury/E-Commerce_Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hassan-elkhatoury&repo=E-Commerce_Website&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hassan-elkhatoury&repo=E-Commerce_Website&theme=tokyonight&cache_seconds=3600" />
   </a>
   <a href="https://github.com/hassan-elkhatoury/car-rental-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hassan-elkhatoury&repo=LOCATION-DES-VOITURES&theme=tokyonight" />
