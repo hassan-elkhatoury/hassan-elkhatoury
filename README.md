@@ -75,7 +75,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hassan-elkhatoury&repo=e-service&theme=tokyonight" />
   </a>
   <br/><br/>
-  <a href="https://github.com/hassan-elkhatoury/ecommerce-store">
+  <a href="https://github.com/hassan-elkhatoury/E-Commerce_Website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hassan-elkhatoury&repo=E-Commerce_Website&theme=tokyonight" />
   </a>
   <a href="https://github.com/hassan-elkhatoury/car-rental-system">
