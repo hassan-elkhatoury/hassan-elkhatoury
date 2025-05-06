@@ -45,14 +45,12 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <br/>
-    
     <h3>Web Development</h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
     <br/>
-    
     <h3>Tools & Technologies</h3>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -210,22 +208,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
-```
-
-This modern README showcases your skills, projects, and experience in a visually appealing way. I've included:
-
-1. **Dynamic Header** with animated typing effect
-2. **Professional Summary** highlighting your current focus
-3. **Contact Information** with modern badges
-4. **Tech Stack** organized by category with colorful badges
-5. **Featured Projects** with GitHub repository cards
-6. **Detailed Project Descriptions** in a collapsible section
-7. **GitHub Stats** with modern, themed cards
-8. **Education & Experience** in a clean table format
-9. **Languages & Soft Skills** with custom badges
-10. **Visually Appealing Elements** like dividers, badges, and a footer wave
-
-The README uses a modern Tokyo Night theme that gives it a professional, tech-focused appearance while highlighting your impressive skills and projects.
-
-You can customize any part of this README to better match your preferences or add additional information as needed.
-
