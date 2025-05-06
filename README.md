@@ -68,8 +68,9 @@
 
 <div align="center">
   <a href="https://github.com/hassan-elkhatoury/qt-messenger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hassan-elkhatoury&repo=qt-messenger&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Elkhatoury&repo=qt-messenger&theme=tokyonight" />
   </a>
+
   <a href="https://github.com/hassan-elkhatoury/university-eservice">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hassan-elkhatoury&repo=e-service&theme=tokyonight" />
   </a>
