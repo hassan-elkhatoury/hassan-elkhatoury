@@ -64,32 +64,6 @@
 
 <hr/>
 
-<h2 align="center">🚀 Featured Projects 🚀</h2>
-
-<div align="center">
-
-<a href="https://github.com/hassan-elkhatoury/InterviewAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hassan-elkhatoury&repo=InterviewAI&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/hassan-elkhatoury/afcon-predictor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hassan-elkhatoury&repo=afcon-predictor&theme=tokyonight" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/hassan-elkhatoury/qt-messenger">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hassan-elkhatoury&repo=qt-messenger&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/hassan-elkhatoury/car-rental-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hassan-elkhatoury&repo=LOCATION-DES-VOITURES&theme=tokyonight" />
-</a>
-
-</div>
-
-<hr/>
-
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <div align=center>
